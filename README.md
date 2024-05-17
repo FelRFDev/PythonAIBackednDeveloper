@@ -1,3 +1,6 @@
 # Python A.I. Backend Developer
-Neste repositório você encontrará as soluções para os desafios propostos no Bootcamp Python ai Backend Developer da DIO.
-As resoluções estão separadas por Branchs. Navegue entre elas para visualizar os códigos correspondentes a cada módulo e desafio proposto.
+#Desafio: Melhorando o Sistema Bancário com Decoradores, Iteradores, e Geradores
+
+Nesta branch você encontra os arquivos com a resolução para o desafio Melhorando o Sistema Bancário com Decoradores, Iteradores, e Geradores.
+Nele, implementamos estas estruturas para informar dados importantes ao usuário relacionados a conta bancária e as funcionalidades utilizadas.
+Todas as informações foram repassadas por meio de prints posicionados em partes específicas do código.
