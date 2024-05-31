@@ -1,0 +1,20 @@
+=-=-=-=-=-=-=-=--=-= LOG DE REGISTROS =-=-=-=-=-=-=-=-=-====
+DATA: 31/05/2024 - HORA: 12:06
+Cliente: Luigi
+Nome da função: exibir_extrato_transações
+Retorno da Função: String
+Argumentos Posicionais - ['self']
+Argumentos Padrão - None
+Argumentos apenas por palavra-chave - []
+Argumentos de variável de posição (*args) - None
+Argumentos de variável de palavra-chave (**kwargs): - None
+
+DATA: 31/05/2024 - HORA: 12:06
+Cliente: Felipe
+Nome da função: exibir_extrato_transações
+Retorno da Função: String
+Argumentos Posicionais - ['self']
+Argumentos Padrão - None
+Argumentos apenas por palavra-chave - []
+Argumentos de variável de posição (*args) - None
+Argumentos de variável de palavra-chave (**kwargs): - None
